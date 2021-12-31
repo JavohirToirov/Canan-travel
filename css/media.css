@@ -1,0 +1,363 @@
+@media screen and (max-width:1200px) {
+    .logo-img {
+        width: 50%;
+    }
+
+    .header-menu-box-ul {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width:1100px) {
+    .header-menu-box-li {
+        padding-bottom: 20px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .logo-img {
+        width: 70%;
+    }
+
+    .header-fon {
+        min-height: 650px;
+    }
+}
+
+@media screen and (max-width:991px) {
+
+    .swipper-grid .figure-img,
+    .main-header-block {
+        height: auto;
+    }
+
+    .footer-box-menu {
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+
+    .about-history-box-content {
+        padding: 0 20px 0 20px !important;
+    }
+
+    .history-h3 {
+        font-size: 40px !important;
+    }
+
+    .mission-box {
+        padding: 0 40px !important;
+    }
+
+    .uzbekistan-mainBlock {
+        max-width: 800px;
+    }
+
+    .objects-mainBlock-content {
+        flex-direction: column;
+    }
+
+    .objects-mainBlock-content-box {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:818px) {
+    .main-east-h3 {
+        font-size: 40px;
+    }
+
+    .main-header-block {
+        grid-template-columns: 1fr;
+    }
+
+    .main-header-block-img-figure {
+        height: 300px;
+    }
+
+    .preview-box {
+        max-width: 700px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .header-fon-text-box-h3 {
+        font-size: 40px;
+    }
+
+    .header-fon-text-box-p {
+        font-size: 18px;
+    }
+
+    .show-reviews-item {
+        width: 470px !important;
+        margin-right: 30px !important;
+    }
+
+    .show-reviews-item {
+        width: 470px !important;
+        margin-right: 30px !important;
+    }
+
+    .main-offer-text-inp {
+        width: 100%;
+        margin-bottom: 20px;
+        padding-right: 0;
+    }
+
+    .main-offer-text form {
+        flex-direction: column;
+    }
+
+    .main-offer-text-inp-btn input[type="submit"] {
+        width: 100%;
+    }
+
+    .main-offer-text-p {
+        font-size: 20px !important;
+    }
+
+    .main-offer {
+        padding: 40px 0px 41px 0px;
+    }
+
+    .tourmaster-tour-search-submit {
+        width: 50%;
+        min-width: 200px;
+        margin: 10px 0 0 0;
+    }
+
+    .image-box {
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swipper-grid .figure-img {
+        width: auto !important;
+    }
+
+    .image-box p {
+        font-size: 16px;
+    }
+
+    .footer-box-img {
+        margin: 0 auto;
+    }
+
+    .about-history-text {
+        font-size: 16px;
+    }
+
+    .mission-box-text h2 {
+        font-size: 25px;
+    }
+
+    .uzbekistan-mainBlock {
+        max-width: 500px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .uzbekistan-mainBlock-content-text-box span {
+        font-size: 16px;
+    }
+
+    .objects-mainBlock-content {
+        max-width: 600px;
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    
+}
+
+@media screen and (max-width:700px) {
+    .about-us-date {
+        grid-template-columns: 1fr;
+    }
+
+    .about-us-amount {
+        font-size: 30px;
+    }
+
+    .about-us-description {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:617px) {
+    .main-east-h3 {
+        font-size: 30px;
+    }
+
+    .main-east {
+        padding: 100px 0px 100px 0px;
+        margin: 0 0 60px 0;
+    }
+}
+
+@media screen and (max-width:575px) {
+
+    .main-box-grid-cards,
+    .main-tours-grid-cards,
+    .main-header {
+        padding: 0 !important;
+    }
+
+    .main-box-grid-h2,
+    .main-tours-grid-h2 {
+        font-size: 30px;
+    }
+
+    .main-tours-grid-cheaper-img {
+        display: none;
+    }
+
+    .main-tours-grid-cheaper-text {
+        width: calc(100% - 20px);
+        border-radius: 20px;
+        background: #fe8c00 url(../image/bukhara-city.jpg)no-repeat center center / cover;
+        background-blend-mode: multiply;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .main-tours-grid-cheaper {
+        margin-top: 50px;
+    }
+
+    .image-box img {
+        width: 100%;
+    }
+
+    .preview-box {
+        width: 90%;
+    }
+
+    .main-offer-text-p {
+        font-size: 25px !important;
+    }
+
+    .main-offer-text form {
+        padding-bottom: 0;
+    }
+
+    .header-fon,
+    .main-east,
+    .main-offer,
+    .main-book,
+    .footer-box {
+        width: calc(100% - 20px);
+    }
+
+    .main-box-grid-h2,
+    .main-tours-grid-h2,
+    .main-service-slider-h2,
+    .main-quotes-h2,
+    .main-offer-text-p {
+        font-size: 30px;
+        padding-bottom: 40px;
+    }
+
+    .footer-box-menu-link li a,
+    .footer-box-menu-text,
+    .footer-box-menu-ph-icons {
+        font-size: 16px;
+    }
+
+    .about-history-flex {
+        flex-direction: column !important;
+    }
+
+    .about-history-picture {
+        margin: 0 0 20px 0 !important;
+    }
+
+    .mission-box {
+        padding: 0 10px !important;
+    }
+
+    .mission-box-text h2 {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .uzbekistan-mainBlock-content h2 {
+        font-size: 35px;
+    }
+    .objects-mainBlock .main-box-grid-cards {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .objects-mainBlock .main-box-grid-cards-box-article-place {
+        font-size: 21px;
+    }
+
+    .objects-mainBlock .main-box-grid-cards-box-article-span {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:475px) {
+
+    .main-box-grid-cards,
+    .main-tours-grid-cards,
+    .main-tours-grid-cheaper {
+        padding: 0;
+    }
+
+    .show-reviews-item {
+        width: 400px !important;
+    }
+
+    .main-subscribe-flex a {
+        margin-bottom: 30px !important;
+    }
+
+    .footer-box-img {
+        width: 200px;
+    }
+    .objects-mainBlock .main-box-grid-cards {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width:414px) {
+
+    .image-box p {
+        font-size: 10px;
+    }
+
+    .show-reviews-item {
+        width: 384px !important;
+        margin-right: 20px !important;
+    }
+
+    .main-offer-text-p {
+        font-size: 20px !important;
+    }
+
+    .header-fon,
+    .main-east,
+    .main-offer,
+    .main-book,
+    .footer-box {
+        width: 100% !important;
+    }
+
+    .footer-box-menu {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .footer-box {
+        border-radius: 40px 40px 0 0;
+    }
+
+    .tiny-wrapper {
+        padding: 0;
+    }
+}
