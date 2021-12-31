@@ -1593,7 +1593,8 @@ nav .content .links {
     margin: 0 auto;
 }
 
-.uzbekistan-mainBlock-content h2 {
+.uzbekistan-mainBlock-content h2,
+.info-tourst-mainBlock-box h2 {
     font-size: 48px;
     margin-top: 0px;
     margin-bottom: 20px;
@@ -1645,7 +1646,8 @@ nav .content .links {
     margin-top: 20px;
 }
 
-.symbolize p {
+.symbolize p,
+.info-tourst-mainBlock-box p {
     color: #000;
     font-size: 16px;
     font-family: var(--popins-font);
@@ -1738,10 +1740,21 @@ nav .content .links {
     font-family: var(--popins-font);
     padding-bottom: 15px;
 }
+
 /* objects page end */
 /* ************************************************************* */
 /* info_tourists page start */
+.info-tourst-mainBlock-box-reg ul li {
+    list-style: disc !important;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: var(--popins-font);
+    padding-bottom: 5px;
+}
 
+.info-tourst-mainBlock-box-reg ul {
+    padding-left: 40px;
+}
 
 /* **********************keyframes************************** */
 @-webkit-keyframes toBottomFromTop {
