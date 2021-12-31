@@ -5,6 +5,14 @@ $(function () {
     $(".traveltour-top-search-close").click(function () {
         $(".traveltour-top-search-wrap").removeClass("active");
     })
+
+    function dropInfo() {
+        $('.dropdown-box-content').hide();
+        $('.dropdown-box h3').click(function () {
+            $('.dropdown-box-content').slideToggle();
+        })
+    }
+    dropInfo();
 })
 
 const img = document.querySelector('.main-header-block-img');

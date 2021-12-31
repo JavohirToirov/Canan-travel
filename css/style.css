@@ -1756,6 +1756,28 @@ nav .content .links {
     padding-left: 40px;
 }
 
+.info-tourst-mainBlock-box h2 {
+    border-bottom: 2px solid gray;
+}
+
+.dropdown-box h3 {
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: var(--popins-font);
+}
+
+.dropdown-box h3 i {
+    padding-right: 10px;
+}
+
+.dropdown-box-content{
+    margin-top: 10px;
+}
+
+.info-tourst-mainBlock-box-reg-text{
+    margin-bottom: 50px;
+}
 /* **********************keyframes************************** */
 @-webkit-keyframes toBottomFromTop {
     49% {
