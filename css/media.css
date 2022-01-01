@@ -63,6 +63,19 @@
     .info-tourst-mainBlock-box {
         padding: 0 20px 0 20px;
     }
+
+    .pilof-mainBlock-box {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .pilof-mainBlock-box-item {
+        grid-template-columns: 1fr;
+    }
+
+    .pilof-mainBlock-box-form {
+        max-width: 100%;
+    }
 }
 
 @media screen and (max-width:818px) {
@@ -175,7 +188,23 @@
         margin-right: auto;
     }
 
+    .pilof-mainBlock-box-form {
+        max-width: 500px;
+    }
 
+    .author-box {
+        flex-direction: column;
+    }
+
+    .pilof-mainBlock-box-form-box-author,
+    .pilof-mainBlock-box-form-box-check {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .pilof-mainBlock-box-form-box {
+        padding: 45px 30px;
+    }
 }
 
 @media screen and (max-width:700px) {
@@ -314,6 +343,19 @@
         font-size: 39px;
     }
 
+    .pilof-mainBlock-box-item-text p,
+    .pilof-mainBlock-box-video p {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .pilof-mainBlock-box-item-img img {
+        max-height: 50vh;
+    }
+
+    .pilof-mainBlock-box-video iframe {
+        height: 400px;
+    }
 }
 
 @media screen and (max-width:475px) {
