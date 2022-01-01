@@ -1771,13 +1771,32 @@ nav .content .links {
     padding-right: 10px;
 }
 
-.dropdown-box-content{
+.dropdown-box-content {
     margin-top: 10px;
 }
 
-.info-tourst-mainBlock-box-reg-text{
+.info-tourst-mainBlock-box-reg-text {
     margin-bottom: 50px;
+    line-height: 1.7;
 }
+
+.info-tourst-mainBlock-box-reg-text blockquote {
+    background-color: #f5f5f5;
+    border-color: #e2e2e2;
+    quotes: none;
+    padding: 30px 30px 15px;
+    font-size: 17px;
+    margin-bottom: 35px;
+    font-style: italic;
+    margin-top: 35px;
+    border-left-width: 2px;
+    border-left-style: solid;
+}
+
+.info-tourst-mainBlock-box-reg-text .duty li {
+    font-weight: 500 !important;
+}
+
 /* **********************keyframes************************** */
 @-webkit-keyframes toBottomFromTop {
     49% {

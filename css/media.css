@@ -59,6 +59,10 @@
     .objects-mainBlock-content-box {
         width: 100%;
     }
+
+    .info-tourst-mainBlock-box {
+        padding: 0 20px 0 20px;
+    }
 }
 
 @media screen and (max-width:818px) {
@@ -171,7 +175,7 @@
         margin-right: auto;
     }
 
-    
+
 }
 
 @media screen and (max-width:700px) {
@@ -288,6 +292,7 @@
     .uzbekistan-mainBlock-content h2 {
         font-size: 35px;
     }
+
     .objects-mainBlock .main-box-grid-cards {
         grid-template-columns: 1fr 1fr;
     }
@@ -299,6 +304,16 @@
     .objects-mainBlock .main-box-grid-cards-box-article-span {
         font-size: 14px;
     }
+
+    .mainBlock-box p,
+    .info-tourst-mainBlock-box-reg ul li {
+        font-size: 14px;
+    }
+
+    .info-tourst-mainBlock-box h2 {
+        font-size: 39px;
+    }
+
 }
 
 @media screen and (max-width:475px) {
@@ -320,8 +335,13 @@
     .footer-box-img {
         width: 200px;
     }
+
     .objects-mainBlock .main-box-grid-cards {
         grid-template-columns: 1fr;
+    }
+
+    .info-tourst-mainBlock-box {
+        padding: 0;
     }
 }
 
