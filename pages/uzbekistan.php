@@ -1,3 +1,4 @@
+
 <div class="main-block">
    <div class="header-fon about-header-fon">
             <div class="container">
@@ -141,14 +142,9 @@
                   <br><br>
                   <span>Among the most popular Uzbek dishes:</span>
                   <ul>
-                      <li><a href="#">pilaf;</a></li>
-                      <li><a href="#">kebab;</a></li>
-                      <li><a href="#">round bread;</a></li>
-                      <li><a href="#">sumalak;</a></li>
-                      <li><a href="#">shurpa;</a></li>
-                      <li><a href="#">manta;</a></li>
-                      <li><a href="#">tukhum-barak;</a></li>
-                      <li><a href="#">tandoor-meat.</a></li>
+                    <? foreach($arrayPagesmaels as $link => $pageInfo):?>
+                        <li><a href="/?route=<?=$link?>"><?=$pageInfo['page_title']?>;</a></li>
+                    <?endforeach;?>
                   </ul>
                   <span>Particular attention should be paid to <a href="#">Uzbek wines</a>, which are among the best in the world due to the abundance of the sun and the variety of grape varieties.</span>
                   <br><br>
