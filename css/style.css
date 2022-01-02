@@ -1945,10 +1945,48 @@ nav .content .links {
     background-color: #732ab0;
     font-family: var(--popins-font);
 }
+
 /* pilof page end */
 /* ///////////////////////////////////////////////////////////////////// */
+/* kebab page start */
+.kebab-mainBlock {
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.7;
+}
 
+.kebab-mainBlock-box {
+    width: 100%;
+}
 
+.kebab-mainBlock-box-img {
+    margin-bottom: 45px;
+}
+
+.kebab-mainBlock-box img {
+    border-radius: 40px;
+    max-height: 70vh;
+    object-fit: cover;
+    max-width: 100%;
+}
+
+.kebab-mainBlock-box-item p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-family: var(--popins-font);
+}
+
+.kebab-item-ingridents {
+    margin-left: 35px;
+    margin-bottom: 20px;
+}
+
+.kebab-item-ingridents li {
+    font-size: 16px !important;
+    font-family: var(--popins-font) !important;
+    padding-bottom: 10px !important;
+    list-style: disc !important;
+}
 
 /* **********************keyframes************************** */
 @-webkit-keyframes toBottomFromTop {

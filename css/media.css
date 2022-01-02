@@ -192,6 +192,11 @@
         max-width: 500px;
     }
 
+    .kebab-mainBlock {
+        max-width: 500px;
+        padding: 0 15px 0 15px;
+    }
+
     .author-box {
         flex-direction: column;
     }
@@ -384,6 +389,11 @@
 
     .info-tourst-mainBlock-box {
         padding: 0;
+    }
+
+    .kebab-mainBlock-box-item p {
+        margin-bottom: 15px;
+        font-size: 14px;
     }
 }
 
