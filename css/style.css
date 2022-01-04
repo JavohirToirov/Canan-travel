@@ -1988,6 +1988,16 @@ nav .content .links {
     list-style: disc !important;
 }
 
+/* kebab page end */
+/* *************************************************************************** */
+/* round-bread start */
+.bread-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 /* **********************keyframes************************** */
 @-webkit-keyframes toBottomFromTop {
     49% {

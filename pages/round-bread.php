@@ -14,24 +14,30 @@
             <div class="pilof-mainBlock-box">
               <div class="pilof-mainBlock-box-item">
                    <div class="pilof-mainBlock-box-item-img">
-                     <img src="../image/blog_page/meals/znamenitiy-uzbekskiy-plov.jpg" alt="">
+                     <img src="../image/blog_page/meals/traditsionniy-hleb-samarqanda.jpg" alt="">
                    </div>
-                   <div class="pilof-mainBlock-box-item-text">
-                     <p>The main dish in Uzbek cuisine is Pilaf. This dish is always on the table for all solemn occasion, it serves for guests on the anniversary, and wedding events. Pilaf prepares in many Eastern countries. There are many legends telling about the health and nutritional features of pilaf. According to Uzbek pilaf called “osh palov” In the old days it also was the main dish, and in some houses eat it every day. Poor people also enjoyed the pilaf, but only on holidays. It is believed that true festive pilaf could make only men. Often in the teahouses (cafes) are contest for the preparation of this dish.</p>
-                     <p>In the Uzbek cuisine, there are more than fifty varieties of pilaf: meat, chicken, steamed mutton fat-tailed and fat, with peas, with quince, raisins, and potatoes. In X – XII century appear the recipe of pilaf with partridge, which is prepared still nowadays. Many recipes of pilaf for about a thousand years.</p>
+                   <div class="pilof-mainBlock-box-item-text bread-flex">
+                     <p>The Samarkand flat cakes are known for its taste and property not to be spoiled for a long time. It is possible to eat a real Samarkand flat cake within three years. Before tasting it is necessary just to sprinkle it with water and to warm up in an oven. The one, who goes to Samarkand, surely brings flat cakes from there. There is a set of versions types of these flat cakes: small, big, strewed with the sesame, covered with glaze. Surprisingly that legends are composed about Samarkand flat cakes.</p>
                    </div>
               </div>
               <div class="pilof-mainBlock-box-item">
-                   <div class="pilof-mainBlock-box-item-text">
-                     <p>The Cook defines full readiness of dish, striking the boiler skimmer. If the pilaf is not ready you will hear a hissing sound, if it is ready – you will hear the clunk. To the table, pilaf served in lagans – a large ceramic or porcelain dishes. In the old days during the wedding pilaf was allowed to guests in bread (lepeshki).</p>
-                     <p>In Uzbekistan, by the tradition pilaf mostly eat for dinner. Salads of fresh vegetables, such as tomatoes and cucumbers, radishes and onions always complement this dish. This vegetable helps to better assimilate this quite greasy dish. Of course, it is impossible to imagine pilaf without tea. In Tashkent, people prefer to drink black tea, and in other regions of the country give preference to green tea. And to the tea, the hostess will give a crystalline sugar Navad and various sweets.</p>
+                   <div class="pilof-mainBlock-box-item-text bread-flex">
+                     <p>According to one legend, the Samarkand flat cakes were loved very much by the emir of Bukhara. He couldn’t understand, why these tasty flat cakes should be carried from Samarkand, after all they with the same success can be baked in Bukhara. Then he ordered to bring a baker of flat cakes from Samarkand to Bukhara. And the best baker from Samarkand was brought to the palace and he was ordered to bake flat cakes there. The master began the work, however flat cakes didn’t turn out to be as tasty as they were in Samarkand. Advisers of the emir began to think what a problem was and decided that all depends on the Samarkand flour, water and oven. All these things were brought to the baker from Samarkand. But flat cakes didn`t turn out successful. Then the master thought and told: «I think the whole matter is in the Samarkand air!».</p>
                    </div>
                    <div class="pilof-mainBlock-box-item-img">
-                     <img src="../image/blog_page/meals/uzbekskiy-plov-na-stole-300x200.jpg.png" alt="">
+                     <img src="../image/blog_page/meals/hleb-768x512.jpg" alt="">
+                   </div>
+              </div>
+              <div class="pilof-mainBlock-box-item">
+                   <div class="pilof-mainBlock-box-item-img">
+                     <img src="../image/blog_page/meals/samarqandskaya-lepeshka.jpg" alt="">
+                   </div>
+                   <div class="pilof-mainBlock-box-item-text bread-flex">
+                     <p>After all it was impossible to bring an air, and consequently the baker was sent back to Samarkand where he continued to bake surprising flat cakes. And those who wanted enjoy the taste of Samarkand flat cakes went for them to Samarkand. This tradition proceeds up to present day.</p>
                    </div>
               </div>
               <div class="pilof-mainBlock-box-video">
-                 <iframe width="100%" height="625" src="https://www.youtube.com/embed/WmJQkUiupKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                 <iframe width="100%" height="625" src="https://www.youtube.com/embed/ZFivgJi7AvQ?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <p>If you want to know better the Uzbek people and Uzbek traditions, it should be better just enjoy the main dish of Uzbek cuisine – pilaf!</p>
               </div>
               <? include_once './includes/form-input.php'; ?>
