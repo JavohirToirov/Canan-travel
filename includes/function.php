@@ -1,6 +1,21 @@
 <?
 $route = $_GET['route'] ? $_GET['route'] : 'main';
 
+$arrayPageshheaderDrop = [
+    'history' => [
+        'page_name' => 'history',
+        'page_title' => 'History'
+    ],
+    'mission' => [
+        'page_name' => 'mission',
+        'page_title' => 'Mission'
+    ],
+    'management' => [
+        'page_name' => 'management',
+        'page_title' => 'management'
+    ],
+];
+
 $arrayPagesFotter = [
     'about' => [
         'page_name' => 'about',

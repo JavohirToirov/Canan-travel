@@ -7,16 +7,16 @@
                         <input type="checkbox" id="show-menu">
                         <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
                         <div class="content">
-                            <div class="logo"><a href="#"><img src="image/canaan-logo.png" alt=""></a></div>
+                            <div class="logo"><a href="http://cannan"><img src="image/canaan-logo.png" alt=""></a></div>
                             <ul class="links">
                                 <li>
-                                    <a href="#" class="desktop-link">About</a>
+                                    <a href="http://cannan/?route=about" class="desktop-link">About</a>
                                     <input type="checkbox" id="show-about">
                                     <label for="show-home">About</label>
                                     <ul>
-                                        <li class=""><a href="#">History</a></li>
-                                        <li class=""><a href="#">Mission</a></li>
-                                        <li class=""><a href="#">Management</a></li>
+                                    <? foreach($arrayPageshheaderDrop as $link => $pageInfo):?>
+                                        <li class=""><a href="/?route=<?=$link?>"><?=$pageInfo['page_title']?></a></li>
+                                    <?endforeach;?>
                                     </ul>
                                 </li>
                                 <li><a href="#">Uzbekistan</a>
