@@ -395,6 +395,10 @@
         margin-bottom: 15px;
         font-size: 14px;
     }
+
+    .sumalak-main-box-item h3 {
+        font-size: 30px !important;
+    }
 }
 
 @media screen and (max-width:414px) {
