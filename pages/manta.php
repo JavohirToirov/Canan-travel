@@ -12,84 +12,110 @@
     <div class="kebab-mainBlock">
         <div class="kebab-mainBlock-box">
             <div class="kebab-mainBlock-box-img">
-                    <img lazy="loading" src="/image/blog_page/meals/shurpa1.jpg" alt="">
+                    <img lazy="loading" src="/image/blog_page/meals/manti1.jpg" alt="">
             </div>
             <div class="sumalak-main-box-item">
                <p>
-                  As soon not call this rich soup: chorpa, sopra… but the point is the name of the soup. This dish is prepared from 4 components: meat (lamb), vegetables, fresh herbs, and spices.
+                  Manta is one of the main dishes of the Uzbek people, which is cooked on steam. To describe the dish, in a nutshell, is as follows: tender meat filling covered with thin dough.
                </p>
                <p>
-                 Soup is universal. It is served to relatives, friends and during special events.
+                 Well, let’s figure out when there was a dish and how to cook it yourself.
                </p>
-               <h3>The history of the soup</h3>
+               <h3>History of manta</h3>
                <p>
-                  Once upon a time, in Central Asia lived a boy. To his happiness or misfortune, he was poor, but with a good soul. He fell in love with the most beautiful girl in the country, and her father did not even want to listen to the poor groom.
-               </p>
-               <p>
-                  Once the guy made soup from what was — onions, a piece of meat, greens and potatoes. It so happened that the father of the beloved passed by, heard a beautiful aroma and decided to drive closer…
+                  Mantas originally were not Uzbek. For the first time, the dish was prepared by Chinese nomads, and only after some time mantas appeared in Central Asia and other countries.
                </p>
                <p>
-                   The guy was not angry with his beloved father and offered him to taste his dish. The questions “what is this delicious soup” and “who came up with the recipe” the guy said that he just cooked soup from what was. The father appreciated the intelligence of the guy and gave him his daughter to wife, but on condition…that he would teach him to make the same soup.
+                 It is difficult to determine the year of origin of mantas. It happened somewhere in the twentieth century. The recipe changed many times, new ingredients and cooking features were added…and only the people of Uzbekistan have kept the real recipe of the dish to this day.
                </p>
                <p>
-                  In fact, this story is fiction. Shurpa is so ancient dish that it is difficult to say exactly when it was prepared for the first time.
+                  So, today we can say that manta is the national dish of Uzbekistan.
                </p>
-               <h3>Useful property</h3>
+               <h3>When is manta served?</h3>
                <p>
-                   This is not a reservation: shurpa really has useful properties. The doctors of Central Asia recommend eating the soup with anemia, joint problems, inflammation of the lungs, tuberculosis.
-               </p>
-               <p>
-                  <img lazy="loading" src="/image/blog_page/meals/shurpa2.jpg" alt="">
+                 According to the traditions and customs of Uzbekistan, manta rays are served for lunch or dinner. Cooked manta rays are placed on the Lagan (large dish) and served to guests. Independently impose manta rays on a plate of the guest is not accepted: everyone takes as much as he wants to eat.
                </p>
                <p>
-                  Also shurpa stimulates potency, relieves tension, improves the digestive system and contributes to the appearance of milk in nursing mothers. The dish is so useful that Avicenna (scientist and doctor of Central Asia) wrote about it in his treatise “Canon of medical science”.
+                  <img lazy="loading" src="/image/blog_page/meals/manti2.jpg.jpg" alt="">
                </p>
-               <h3>Varieties of soup</h3>
                <p>
-                 Of course, each owner has a unique recipe for cooking shurpa. Some add to the shurpa “special” ingredients, others — prepare a dish with unusual spices. In General, there are 2 types of shurpa:
+                  Manta, like most of the Uzbek dishes, it is customary to eat with kushi. You can eat a dish with the help of Cutlery, but believe me… hands are more convenient and it seems that it tastes better.
+               </p>
+               <h3>What ingredients will you need to prepare a dish?</h3>
+               <p>
+                  To prepare manta, you will need ingredients for two components: dough and filling.
+                  <br>
+                  For the dough you will need:
                </p>
                <ul class="sumalak-ingredients">
-                   <li>kaurma. Meat for soup is first fried in a cauldron, and then water and spices are added. Mandatory spice — nut nut (1 kg of meat must be added 200 grams of nut);</li>
-                   <li>kainatma. The meat is not fried in advance: first, the meat is soaked in water for about 1.5-2 hours, and then all the contents are placed in a cauldron and cooked over low heat.</li>
+                   <li>1/2 kg flour;</li>
+                   <li>1-2 eggs;</li>
+                   <li>half a glass of boiled water;</li>
+                   <li>a teaspoon of salt;</li>
+                   <li>a tablespoon of vegetable oil.</li>
                </ul>
-               <h3>How to cook the soup</h3>
                <p>
-                  The soup is easy to prepare both at home and in nature. Recipe shurpa is not difficult, so prepare a shopping list to go to the store.
-               </p>
-               <p>
-                  To prepare the soup, you will need:
+                  To prepare the filling is necessary:
                </p>
                <ul class="sumalak-ingredients">
-                   <li>1.5-2 kg of lamb (you can use pork or beef, but to feel the taste of this shurpa — need lamb);</li>
-                   <li>3.5-4 liters of water;</li>
-                   <li>4 carrots;</li>
-                   <li>4 onions;</li>
-                   <li>2-2. 5 tablespoon of salt;</li>
-                   <li>seasoning for soup;</li>
-                   <li>1,5-2 kg of pepper;</li>
-                   <li>bunch of coriander and parsley.</li>
+                   <li>1 kg of meat;</li>
+                   <li>100 g sheep’s tail fat (added on request);</li>
+                   <li>300 gr onion;</li>
+                   <li>a teaspoon of pepper;</li>
+                   <li>a teaspoon of cumin (cumin) or other meat spices.</li>
                </ul>
                <p>
-                 The first step is the preparation of meat. Wash it, wait until the water flows down or wipe it and start to cut into large pieces. Do not cut too finely: each piece should weigh 70-100 grams. It is desirable to buy young meat. Old lamb will cook longer and the taste of the dish will change.
+                  Dumplings can be cooked in different ways. For example, as a filling, you can use not only meat but also sliced potatoes with onions or potatoes with meat (in a proportion of 50/50). Some even manage to cook manta rays without meat and replace it with grated pumpkin.
                </p>
                <p>
-                 When buying meat, ask the seller what part you are buying. This is important because the taste of the soup depends on the type of meat. Ideally, the buy back of the neck or shoulder blades of females.
+                 Real manta rays should be juicy. This is not difficult to achieve: add a lot of onions to the filling. The more onions, the juicier the dish
+               </p>
+               <h3>How to prepare mantas at home</h3>
+               <p>
+                 The process of preparation easy: prepare the ingredients, put the dumplings and cook them in the steamer. As in the preparation of any dish, some of the subtleties and secrets of cooking there.
                </p>
                <p>
-                  Next, make a fire and put it on the cauldron. Pour water into it, immediately throw the sliced pieces of meat. While the water in the cauldron boils, prepare other ingredients: onions clean and cut into half rings, carrots — cut into large pieces.
+                  Prepare dough and ingredients
                </p>
                <p>
-                  <img lazy="loading" src="/image/blog_page/meals/shurpa3.jpg" alt=""> 
+                 If you have already prepared Uzbek flour products — it will be easier, because the dough is no different from what is prepared for other dishes.
                </p>
                <p>
-                  When the broth begins to boil, foam is formed. It must be removed and thrown into the cauldron carrots and onions. How much further cooking — it’s hard to say. Be guided by the freshness of meat: if you managed to get young meat — cook for 40-60 minutes, if the old — cook more and try the soup to taste.
+                  <img lazy="loading" src="/image/blog_page/meals/manti3.jpg" alt="">
                </p>
                <p>
-                  And of course, add spices. First, add salt to the cauldron and taste. Next, add the seasoning for shurpa, a few tomatoes, sweet peppers and stir the broth. If you do not have a special seasoning for shurpa — do not despair, you can make it yourself. You need to mix coriander, khmeli-suneli, cumin and savory.
+                 Now leave the dough “lie down” and prepare the filling. If you cook manta rays with meat, we recommend taking finely chopped pork or meat and grind it yourself through a meat grinder. Now add sliced onion, salt, pepper and other spices to the meat.
+               </p>
+               <h3>Sculpt the manta</h3>
+               <p>
+                 Some people think that it is difficult to sculpt manta rays. In fact, there is nothing complicated in cooking. Moreover, there are 2 ways of modeling: the first — to tell the dough and cut into squares of 8×10 cm, the second — to tell a few “sausages”, cut them into equal parts, and then roll out separately. The second method resembles the preparation of dumplings, only large.
                </p>
                <p>
-                 Now add the potatoes and bake for another 20 minutes. Next, pour the shurpa on the jambs and add fresh herbs. Yes, to feel the taste of this Uzbek dish — eat it hot. So you will be able to hear the unusual touch of fire and spice.
+                 Next, apply a tablespoon of filling on top, add a piece of butter and fasten the ends. Of course, the first time you can not go out, but do not worry and try again. Take the opposite sides of the dough and begin to fasten them.
                </p>
+               <p>
+                 Another tip for cooking. Take a special rolling pin and roll out the dough so that the edges are thinner than the middle. As a result, the seams on the finished manta rays will look not so rough
+               </p>
+               <h3>Cooking mantas</h3>
+               <p>
+                 In Central Asia use a special Martyshkino, and in Europe on the steamer. If you have manta-pot and steamers, don’t worry: you can take the colander to fit the size pot (not failed), and thus to prepare a dish.
+               </p>
+               <p>
+                 Here it’s not about the convenience of ways, and how many pieces you can cook at a time. For example, on Kantishna you can cook up to 40 pieces, but with the help of a colander — just a few pieces.
+               </p>
+               <p>
+                  <img lazy="loading" src="/image/blog_page/meals/manti4.jpg" alt="">
+               </p>
+               <p>
+                 First, grease the sheets of a double boiler (Martyshkino or colander) with oil, to dumplings are not stuck to the surface. Here, again, there is a second option: you can slightly dip the manta rays (in turn) in the oil and then put in a steamer. Cover the dish with a lid and cook for 40-45 minutes. Manta rays should be looked after and sprinkled with water when they are completely dry.
+               </p>
+               <h3>Serve on the table</h3>
+               <p>
+                 If you do not have a large flat plate, it does not matter: you can put manta rays in the plate of each member of the family. If desired, you can add sour cream, salt, herbs, and pepper.
+                 <br>
+                 The dish is incredibly tasty.
+               </p>
+               <blockquote><p>Manta rays are considered heavy food, so recommend not to hand.</p></blockquote>
             </div>
             
             <? include_once './includes/form-input.php'; ?>
