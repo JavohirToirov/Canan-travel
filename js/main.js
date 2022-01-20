@@ -18,7 +18,6 @@ $(function () {
 const img = document.querySelector('.main-header-block-img');
 const previewBox = document.querySelector('.preview-box');
 const iconBack = document.querySelector('.icon');
-
 img.onclick = () => {
     previewBox.classList.add('show');
 }

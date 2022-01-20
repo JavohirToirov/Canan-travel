@@ -46,11 +46,11 @@
                                 <li>
                                     <a href="#" class="desktop-link">Hostel of Uzbekistan</a>
                                     <input type="checkbox" id="show-hostel">
-                                    <label for="show-services">Hostel of Uzbekistan</label>
+                                    <label for="show-services">>Hostel1 of Uzbekistan</label>
                                     <ul>
-                                        <li class=""><a href="#">History</a></li>
-                                        <li class=""><a href="#">Mission</a></li>
-                                        <li class=""><a href="#">Management</a></li>
+                                    <? foreach($arrayHotel as $link => $pageInfo):?>
+                                        <li class=""><a href="/?route=<?=$link?>"><?=$pageInfo['page_title']?></a></li>
+                                    <?endforeach;?>
                                     </ul>
                                 </li>
                                 <li><a href="#">Feedback</a></li>

@@ -53,6 +53,14 @@ $arrayPagesFotterSecond = [
         'page_title' => 'Info tourists'
     ],
 ];
-
-
+$arrayPagesFotterThird = [
+    'hotel-of-uzbekistan' => [
+        'page_name' => 'hotel-of-uzbekistan',
+        'page_title' => 'hotel-of-uzbekistan'
+    ],
+    'Tashkent' => [
+        'page_name' => 'hotel-tashkent',
+        'page_title' => 'hotel-tashkent'
+    ],
+];
 ?>
